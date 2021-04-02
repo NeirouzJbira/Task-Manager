@@ -1,7 +1,9 @@
 # Task-Manager
 A web app designed to help manage daily tasks. Users are able to add, delete and edit their tasks.
 
-<img src="url">
+<img src="https://github.com/NeirouzJbira/Task-Manager/blob/main/img.png">
+<br>
+
 ## Summary
 This project allows users to add, delete and edit their tasks. This app aims to help users keep track of their daily tasks, be more organised and consequently become more productive.
 
